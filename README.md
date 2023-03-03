@@ -14,6 +14,7 @@ So first we  do data preprocessing and then  feature selection and then we  buil
 
 
 conclusion from the project:
+
 1] We have done our EDA and found out that the some features are not important in predicting the class for example - id , Annual premium , Driving liecense and vintage.
 
 2] In the given dataset previously insured , vehicle age , age , policy slaes channel are most impacting features whcih decide the class of target variable.
